@@ -44,7 +44,7 @@ let package = Package(
                            .product(name: "YandexMobileMetrica", package: "metrica-sdk-ios"),
                            //                           .byName(name: "YandexPaySDK")
                           ],
-            path: "Sources"
+            path: "sdk"
             //            exclude: ["Info.plist"],
             //            publicHeadersPath: "",
             //            cSettings: [
