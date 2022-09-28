@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CloudPayments",
+        "repositoryURL": "https://github.com/cloudpayments/CloudPayments-SDK-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "e16a65888b3e9c77cb69a94a32d2f43e2be4e1c7",
+          "version": "1.1.15"
+        }
+      },
+      {
+        "package": "YandexMobileMetrica",
+        "repositoryURL": "https://github.com/yandexmobile/metrica-sdk-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "615187c0402709da9e1e3ac5dbbbb70efed3b283",
+          "version": "4.4.0"
+        }
+      },
+      {
+        "package": "ReCaptcha",
+        "repositoryURL": "https://github.com/goshaginyan/ReCaptcha.git",
+        "state": {
+          "branch": "master",
+          "revision": "aacd548daaf34d3d9b40b9d5477f1b94b849728c",
+          "version": null
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": "master",
+          "revision": "3c7c949637cecb4eef79cd543309a2d5b261e46f",
+          "version": null
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit.git",
+        "state": {
+          "branch": null,
+          "revision": "f222cbdf325885926566172f6f5f06af95473158",
+          "version": "5.6.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
